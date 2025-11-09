@@ -1,0 +1,32 @@
+# Core app
+streamlit
+pandas
+numpy
+pathlib
+pillow
+requests
+
+# Google Gemini SDK (genai client)
+google-genai
+
+# Vector database
+chromadb
+
+# PDF handling
+PyPDF2
+
+# Excel and document support
+openpyxl
+python-docx
+
+# Async utilities
+aiofiles
+
+# Optional (for improved OCR/processing if you extend)
+tqdm
+
+# For working with JSON and regex safely (standard, but included for completeness)
+regex
+
+# To avoid SSL and warning issues (optional)
+certifi
